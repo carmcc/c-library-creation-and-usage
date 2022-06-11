@@ -1,1 +1,1 @@
-# c-library-creation-and-usage
+# C-library-creation-and-usage
